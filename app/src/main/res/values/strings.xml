@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="title_check">Check</string>
+    <string name="title_history">History</string>
+    <string name="title_news">News</string>
+    <string name="analyze">Analyze Now</string>
+    <string name="result">Result</string>
+    <string name="failed_to_load_data">Gagal memuat data dari server</string>
+    <string name="label_check">Check your potential skin cancer</string>
+    <string name="label_history">Your check history</string>
+    <string name="label_news">Latest news about cancer</string>
+    <string name="label_result">Check Result</string>
+    <string name="result_percentage">%1$s %%</string>
+    <string name="file_name">IMG_CROPPED_%1$s.jpg</string>
+    <string name="gallery_button">Gallery Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="result_image">Result Image</string>
+    <string name="classification">Classification</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="date_check">Date Check</string>
+    <string name="save_check_result">Save Check Result</string>
+    <string name="empty_history">Your check history is still empty</string>
+    <string name="result_text">Result:</string>
+    <string name="confidence_score_text">Confidence Score:</string>
+    <string name="checked_on_text">Checked on:</string>
+    <string name="published_on_text">Published on:</string>
+</resources>
